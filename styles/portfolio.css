@@ -248,3 +248,16 @@ input[type="email"] {
 .contact-item a {
   text-decoration: none;
 }
+
+.modified-style {
+  padding: 18px 36px;
+  border-radius: 5px;
+  border-color: #FD6E0A;
+  background: #FFF8F3;
+  font-weight: 700;
+  font-size: 20px;
+  color: #FD6E0A;
+  margin-left: 30px;
+  height: 64px;
+  width: 200px;
+}
